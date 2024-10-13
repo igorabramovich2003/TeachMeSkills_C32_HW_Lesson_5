@@ -1,7 +1,7 @@
-package com.teachmeskills.lesson_5;
+package com.teachmeskills.lesson5;
 
 public class Task0 {
     public static void main(String[] args) {
-        
+
     }
 }
